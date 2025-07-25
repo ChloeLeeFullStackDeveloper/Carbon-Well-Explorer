@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "WELL-0001",
+    "lat": 58.292171,
+    "lng": -113.886448,
+    "status": "active",
+    "emissions": 50.1,
+    "ghgScore": 47,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0002",
+    "lat": 53.444596,
+    "lng": -119.695358,
+    "status": "active",
+    "emissions": 78.4,
+    "ghgScore": 84,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0003",
+    "lat": 53.491476,
+    "lng": -115.973469,
+    "status": "inactive",
+    "emissions": 95.9,
+    "ghgScore": 90,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0004",
+    "lat": 50.374998,
+    "lng": -112.372917,
+    "status": "active",
+    "emissions": 92.8,
+    "ghgScore": 96,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0005",
+    "lat": 57.278035,
+    "lng": -114.259416,
+    "status": "active",
+    "emissions": 44.7,
+    "ghgScore": 40,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0006",
+    "lat": 54.934878,
+    "lng": -112.311111,
+    "status": "active",
+    "emissions": 43.8,
+    "ghgScore": 47,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0007",
+    "lat": 57.19109,
+    "lng": -112.9945,
+    "status": "active",
+    "emissions": 34.2,
+    "ghgScore": 34,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0008",
+    "lat": 55.447683,
+    "lng": -118.952955,
+    "status": "active",
+    "emissions": 35.1,
+    "ghgScore": 37,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0009",
+    "lat": 54.161829,
+    "lng": -110.294529,
+    "status": "active",
+    "emissions": 92.0,
+    "ghgScore": 88,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0010",
+    "lat": 50.490811,
+    "lng": -117.277819,
+    "status": "inactive",
+    "emissions": 26.0,
+    "ghgScore": 26,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0011",
+    "lat": 57.155463,
+    "lng": -110.400251,
+    "status": "inactive",
+    "emissions": 72.1,
+    "ghgScore": 76,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0012",
+    "lat": 52.530842,
+    "lng": -115.087103,
+    "status": "active",
+    "emissions": 60.2,
+    "ghgScore": 59,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0013",
+    "lat": 55.91677,
+    "lng": -111.521169,
+    "status": "inactive",
+    "emissions": 28.8,
+    "ghgScore": 31,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0014",
+    "lat": 56.279714,
+    "lng": -113.064923,
+    "status": "active",
+    "emissions": 46.0,
+    "ghgScore": 45,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0015",
+    "lat": 50.73189,
+    "lng": -119.255034,
+    "status": "active",
+    "emissions": 6.3,
+    "ghgScore": 6,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0016",
+    "lat": 54.152918,
+    "lng": -117.908104,
+    "status": "active",
+    "emissions": 27.5,
+    "ghgScore": 30,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0017",
+    "lat": 52.039588,
+    "lng": -114.088328,
+    "status": "active",
+    "emissions": 10.4,
+    "ghgScore": 10,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0018",
+    "lat": 57.740041,
+    "lng": -117.40119,
+    "status": "active",
+    "emissions": 58.2,
+    "ghgScore": 54,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0019",
+    "lat": 50.122742,
+    "lng": -118.10702,
+    "status": "active",
+    "emissions": 56.9,
+    "ghgScore": 59,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0020",
+    "lat": 57.299862,
+    "lng": -110.215477,
+    "status": "inactive",
+    "emissions": 56.9,
+    "ghgScore": 51,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0021",
+    "lat": 52.884467,
+    "lng": -116.423295,
+    "status": "active",
+    "emissions": 97.0,
+    "ghgScore": 1,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0022",
+    "lat": 54.127701,
+    "lng": -113.77436,
+    "status": "active",
+    "emissions": 82.8,
+    "ghgScore": 84,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0023",
+    "lat": 54.578846,
+    "lng": -118.648387,
+    "status": "inactive",
+    "emissions": 4.2,
+    "ghgScore": 4,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0024",
+    "lat": 56.990309,
+    "lng": -115.068483,
+    "status": "active",
+    "emissions": 50.0,
+    "ghgScore": 46,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0025",
+    "lat": 50.955308,
+    "lng": -114.784044,
+    "status": "inactive",
+    "emissions": 8.1,
+    "ghgScore": 8,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0026",
+    "lat": 51.024133,
+    "lng": -112.130954,
+    "status": "active",
+    "emissions": 79.8,
+    "ghgScore": 85,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0027",
+    "lat": 58.655651,
+    "lng": -111.751177,
+    "status": "active",
+    "emissions": 0.8,
+    "ghgScore": 0,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0028",
+    "lat": 51.621078,
+    "lng": -117.463311,
+    "status": "active",
+    "emissions": 60.2,
+    "ghgScore": 63,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0029",
+    "lat": 50.03165,
+    "lng": -116.402077,
+    "status": "inactive",
+    "emissions": 20.6,
+    "ghgScore": 18,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0030",
+    "lat": 51.847406,
+    "lng": -115.685919,
+    "status": "active",
+    "emissions": 10.2,
+    "ghgScore": 11,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0031",
+    "lat": 50.547823,
+    "lng": -117.250438,
+    "status": "active",
+    "emissions": 71.3,
+    "ghgScore": 71,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0032",
+    "lat": 56.275007,
+    "lng": -117.764287,
+    "status": "inactive",
+    "emissions": 21.0,
+    "ghgScore": 21,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0033",
+    "lat": 58.017523,
+    "lng": -115.812907,
+    "status": "active",
+    "emissions": 11.2,
+    "ghgScore": 10,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0034",
+    "lat": 57.927585,
+    "lng": -116.801746,
+    "status": "inactive",
+    "emissions": 15.0,
+    "ghgScore": 16,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0035",
+    "lat": 54.443883,
+    "lng": -112.542725,
+    "status": "active",
+    "emissions": 31.0,
+    "ghgScore": 28,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0036",
+    "lat": 51.299915,
+    "lng": -114.716095,
+    "status": "active",
+    "emissions": 57.1,
+    "ghgScore": 61,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0037",
+    "lat": 58.67356,
+    "lng": -112.349866,
+    "status": "active",
+    "emissions": 41.3,
+    "ghgScore": 44,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0038",
+    "lat": 51.84978,
+    "lng": -110.925185,
+    "status": "active",
+    "emissions": 91.2,
+    "ghgScore": 84,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0039",
+    "lat": 53.16096,
+    "lng": -111.09103,
+    "status": "active",
+    "emissions": 28.0,
+    "ghgScore": 26,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0040",
+    "lat": 50.022709,
+    "lng": -118.313446,
+    "status": "active",
+    "emissions": 33.4,
+    "ghgScore": 30,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0041",
+    "lat": 58.397282,
+    "lng": -110.469783,
+    "status": "active",
+    "emissions": 24.4,
+    "ghgScore": 26,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0042",
+    "lat": 51.941618,
+    "lng": -118.143748,
+    "status": "abandoned",
+    "emissions": 50.2,
+    "ghgScore": 53,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0043",
+    "lat": 56.607534,
+    "lng": -111.951256,
+    "status": "abandoned",
+    "emissions": 77.4,
+    "ghgScore": 83,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0044",
+    "lat": 52.311692,
+    "lng": -119.88984,
+    "status": "inactive",
+    "emissions": 33.7,
+    "ghgScore": 33,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0045",
+    "lat": 51.494687,
+    "lng": -113.59196,
+    "status": "inactive",
+    "emissions": 2.8,
+    "ghgScore": 2,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0046",
+    "lat": 49.82419,
+    "lng": -115.295265,
+    "status": "active",
+    "emissions": 88.2,
+    "ghgScore": 86,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0047",
+    "lat": 55.561547,
+    "lng": -112.692934,
+    "status": "inactive",
+    "emissions": 2.9,
+    "ghgScore": 2,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0048",
+    "lat": 53.294352,
+    "lng": -112.236088,
+    "status": "active",
+    "emissions": 87.3,
+    "ghgScore": 90,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0049",
+    "lat": 50.127842,
+    "lng": -116.083054,
+    "status": "inactive",
+    "emissions": 51.3,
+    "ghgScore": 52,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0050",
+    "lat": 50.360941,
+    "lng": -117.670361,
+    "status": "active",
+    "emissions": 98.3,
+    "ghgScore": 94,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0051",
+    "lat": 50.141233,
+    "lng": -117.299613,
+    "status": "active",
+    "emissions": 46.3,
+    "ghgScore": 44,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0052",
+    "lat": 56.773314,
+    "lng": -119.555313,
+    "status": "inactive",
+    "emissions": 36.0,
+    "ghgScore": 33,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0053",
+    "lat": 51.135335,
+    "lng": -115.07475,
+    "status": "active",
+    "emissions": 37.0,
+    "ghgScore": 36,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0054",
+    "lat": 55.252432,
+    "lng": -117.855084,
+    "status": "active",
+    "emissions": 21.7,
+    "ghgScore": 22,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0055",
+    "lat": 56.433239,
+    "lng": -116.794357,
+    "status": "abandoned",
+    "emissions": 66.8,
+    "ghgScore": 61,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0056",
+    "lat": 58.483479,
+    "lng": -112.534357,
+    "status": "active",
+    "emissions": 64.9,
+    "ghgScore": 58,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0057",
+    "lat": 57.414598,
+    "lng": -111.709037,
+    "status": "abandoned",
+    "emissions": 24.0,
+    "ghgScore": 23,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0058",
+    "lat": 50.34957,
+    "lng": -111.440238,
+    "status": "active",
+    "emissions": 57.0,
+    "ghgScore": 58,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0059",
+    "lat": 56.144908,
+    "lng": -113.769269,
+    "status": "active",
+    "emissions": 73.2,
+    "ghgScore": 69,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0060",
+    "lat": 54.431499,
+    "lng": -110.092562,
+    "status": "abandoned",
+    "emissions": 78.3,
+    "ghgScore": 79,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0061",
+    "lat": 53.507947,
+    "lng": -112.117475,
+    "status": "active",
+    "emissions": 3.7,
+    "ghgScore": 4,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0062",
+    "lat": 56.018826,
+    "lng": -111.723492,
+    "status": "inactive",
+    "emissions": 30.6,
+    "ghgScore": 29,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0063",
+    "lat": 50.1944,
+    "lng": -114.008794,
+    "status": "active",
+    "emissions": 69.7,
+    "ghgScore": 67,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0064",
+    "lat": 51.686686,
+    "lng": -115.642594,
+    "status": "active",
+    "emissions": 24.2,
+    "ghgScore": 24,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0065",
+    "lat": 50.425471,
+    "lng": -113.019412,
+    "status": "inactive",
+    "emissions": 87.7,
+    "ghgScore": 86,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0066",
+    "lat": 55.539811,
+    "lng": -110.737553,
+    "status": "abandoned",
+    "emissions": 69.4,
+    "ghgScore": 73,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0067",
+    "lat": 52.583324,
+    "lng": -113.709879,
+    "status": "active",
+    "emissions": 83.8,
+    "ghgScore": 79,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0068",
+    "lat": 51.207865,
+    "lng": -115.827351,
+    "status": "abandoned",
+    "emissions": 67.1,
+    "ghgScore": 62,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0069",
+    "lat": 57.641304,
+    "lng": -117.699141,
+    "status": "active",
+    "emissions": 59.5,
+    "ghgScore": 61,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0070",
+    "lat": 56.957353,
+    "lng": -114.788972,
+    "status": "active",
+    "emissions": 28.8,
+    "ghgScore": 28,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0071",
+    "lat": 55.446334,
+    "lng": -119.817226,
+    "status": "inactive",
+    "emissions": 52.3,
+    "ghgScore": 50,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0072",
+    "lat": 57.616579,
+    "lng": -119.217804,
+    "status": "active",
+    "emissions": 52.5,
+    "ghgScore": 49,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0073",
+    "lat": 58.239163,
+    "lng": -113.66593,
+    "status": "abandoned",
+    "emissions": 76.6,
+    "ghgScore": 71,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0074",
+    "lat": 52.014445,
+    "lng": -111.994636,
+    "status": "active",
+    "emissions": 57.5,
+    "ghgScore": 57,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0075",
+    "lat": 56.865433,
+    "lng": -111.927205,
+    "status": "active",
+    "emissions": 2.7,
+    "ghgScore": 2,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0076",
+    "lat": 53.441778,
+    "lng": -116.083863,
+    "status": "active",
+    "emissions": 33.2,
+    "ghgScore": 36,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0077",
+    "lat": 49.789623,
+    "lng": -114.012648,
+    "status": "active",
+    "emissions": 30.8,
+    "ghgScore": 28,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0078",
+    "lat": 55.698983,
+    "lng": -119.543328,
+    "status": "inactive",
+    "emissions": 34.3,
+    "ghgScore": 31,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0079",
+    "lat": 55.150389,
+    "lng": -111.354924,
+    "status": "active",
+    "emissions": 42.0,
+    "ghgScore": 41,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0080",
+    "lat": 52.45464,
+    "lng": -112.494583,
+    "status": "inactive",
+    "emissions": 78.6,
+    "ghgScore": 77,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0081",
+    "lat": 49.558226,
+    "lng": -114.618775,
+    "status": "active",
+    "emissions": 15.5,
+    "ghgScore": 14,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0082",
+    "lat": 56.356265,
+    "lng": -113.326137,
+    "status": "active",
+    "emissions": 69.2,
+    "ghgScore": 72,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0083",
+    "lat": 52.320918,
+    "lng": -117.139067,
+    "status": "active",
+    "emissions": 31.3,
+    "ghgScore": 30,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0084",
+    "lat": 49.685114,
+    "lng": -117.928328,
+    "status": "inactive",
+    "emissions": 53.4,
+    "ghgScore": 57,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0085",
+    "lat": 49.999965,
+    "lng": -112.312019,
+    "status": "active",
+    "emissions": 82.9,
+    "ghgScore": 77,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0086",
+    "lat": 54.791782,
+    "lng": -116.386708,
+    "status": "active",
+    "emissions": 99.1,
+    "ghgScore": 97,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0087",
+    "lat": 52.135417,
+    "lng": -112.423047,
+    "status": "inactive",
+    "emissions": 84.9,
+    "ghgScore": 90,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0088",
+    "lat": 55.473172,
+    "lng": -117.849046,
+    "status": "active",
+    "emissions": 1.7,
+    "ghgScore": 1,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0089",
+    "lat": 50.240628,
+    "lng": -117.04641,
+    "status": "active",
+    "emissions": 13.7,
+    "ghgScore": 13,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0090",
+    "lat": 58.90389,
+    "lng": -118.413837,
+    "status": "active",
+    "emissions": 9.2,
+    "ghgScore": 9,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0091",
+    "lat": 57.808809,
+    "lng": -112.726047,
+    "status": "active",
+    "emissions": 10.7,
+    "ghgScore": 10,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0092",
+    "lat": 52.42336,
+    "lng": -112.060548,
+    "status": "abandoned",
+    "emissions": 98.0,
+    "ghgScore": 6,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0093",
+    "lat": 50.498569,
+    "lng": -113.882209,
+    "status": "active",
+    "emissions": 52.4,
+    "ghgScore": 54,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0094",
+    "lat": 57.302433,
+    "lng": -116.69832,
+    "status": "active",
+    "emissions": 37.4,
+    "ghgScore": 34,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0095",
+    "lat": 56.312982,
+    "lng": -118.631556,
+    "status": "active",
+    "emissions": 89.2,
+    "ghgScore": 83,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0096",
+    "lat": 52.695548,
+    "lng": -116.16113,
+    "status": "active",
+    "emissions": 74.1,
+    "ghgScore": 74,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0097",
+    "lat": 54.342433,
+    "lng": -111.982618,
+    "status": "abandoned",
+    "emissions": 57.3,
+    "ghgScore": 54,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0098",
+    "lat": 56.792372,
+    "lng": -118.965484,
+    "status": "inactive",
+    "emissions": 23.8,
+    "ghgScore": 24,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0099",
+    "lat": 54.46766,
+    "lng": -114.653082,
+    "status": "inactive",
+    "emissions": 23.4,
+    "ghgScore": 25,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0100",
+    "lat": 57.2783,
+    "lng": -112.777239,
+    "status": "active",
+    "emissions": 95.3,
+    "ghgScore": 0,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0101",
+    "lat": 55.598641,
+    "lng": -111.357062,
+    "status": "active",
+    "emissions": 73.6,
+    "ghgScore": 78,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0102",
+    "lat": 50.41516,
+    "lng": -114.474642,
+    "status": "active",
+    "emissions": 77.4,
+    "ghgScore": 71,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0103",
+    "lat": 52.680279,
+    "lng": -110.042536,
+    "status": "active",
+    "emissions": 32.8,
+    "ghgScore": 35,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0104",
+    "lat": 50.582353,
+    "lng": -117.523783,
+    "status": "active",
+    "emissions": 50.9,
+    "ghgScore": 49,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0105",
+    "lat": 57.258559,
+    "lng": -113.494214,
+    "status": "active",
+    "emissions": 42.2,
+    "ghgScore": 42,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0106",
+    "lat": 52.968888,
+    "lng": -111.430386,
+    "status": "inactive",
+    "emissions": 84.5,
+    "ghgScore": 91,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0107",
+    "lat": 49.844214,
+    "lng": -114.508288,
+    "status": "active",
+    "emissions": 46.7,
+    "ghgScore": 46,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0108",
+    "lat": 57.337776,
+    "lng": -112.04969,
+    "status": "abandoned",
+    "emissions": 68.1,
+    "ghgScore": 72,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0109",
+    "lat": 57.864512,
+    "lng": -111.376415,
+    "status": "inactive",
+    "emissions": 14.5,
+    "ghgScore": 14,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0110",
+    "lat": 52.542987,
+    "lng": -114.928939,
+    "status": "inactive",
+    "emissions": 54.2,
+    "ghgScore": 50,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0111",
+    "lat": 51.106956,
+    "lng": -116.196908,
+    "status": "active",
+    "emissions": 87.2,
+    "ghgScore": 88,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0112",
+    "lat": 55.881268,
+    "lng": -113.132321,
+    "status": "active",
+    "emissions": 70.6,
+    "ghgScore": 67,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0113",
+    "lat": 53.12349,
+    "lng": -113.036548,
+    "status": "active",
+    "emissions": 53.0,
+    "ghgScore": 52,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0114",
+    "lat": 55.554129,
+    "lng": -118.286649,
+    "status": "active",
+    "emissions": 25.3,
+    "ghgScore": 25,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0115",
+    "lat": 51.472711,
+    "lng": -113.637564,
+    "status": "active",
+    "emissions": 42.5,
+    "ghgScore": 41,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0116",
+    "lat": 57.702514,
+    "lng": -116.958945,
+    "status": "active",
+    "emissions": 77.2,
+    "ghgScore": 78,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0117",
+    "lat": 50.99425,
+    "lng": -113.078371,
+    "status": "inactive",
+    "emissions": 32.6,
+    "ghgScore": 32,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0118",
+    "lat": 50.910226,
+    "lng": -112.20376,
+    "status": "active",
+    "emissions": 95.4,
+    "ghgScore": 99,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0119",
+    "lat": 54.663716,
+    "lng": -111.406129,
+    "status": "active",
+    "emissions": 58.5,
+    "ghgScore": 54,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0120",
+    "lat": 52.233128,
+    "lng": -119.856801,
+    "status": "active",
+    "emissions": 5.3,
+    "ghgScore": 5,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0121",
+    "lat": 55.799882,
+    "lng": -113.385518,
+    "status": "inactive",
+    "emissions": 84.1,
+    "ghgScore": 87,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0122",
+    "lat": 51.026738,
+    "lng": -117.864312,
+    "status": "active",
+    "emissions": 54.1,
+    "ghgScore": 48,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0123",
+    "lat": 49.686691,
+    "lng": -113.240168,
+    "status": "inactive",
+    "emissions": 94.0,
+    "ghgScore": 97,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0124",
+    "lat": 54.328934,
+    "lng": -110.638344,
+    "status": "inactive",
+    "emissions": 96.3,
+    "ghgScore": 1,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0125",
+    "lat": 57.281429,
+    "lng": -114.014136,
+    "status": "abandoned",
+    "emissions": 42.9,
+    "ghgScore": 46,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0126",
+    "lat": 56.319415,
+    "lng": -115.01882,
+    "status": "inactive",
+    "emissions": 11.6,
+    "ghgScore": 11,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0127",
+    "lat": 50.215451,
+    "lng": -118.842037,
+    "status": "active",
+    "emissions": 46.8,
+    "ghgScore": 47,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0128",
+    "lat": 54.308217,
+    "lng": -111.784054,
+    "status": "active",
+    "emissions": 44.3,
+    "ghgScore": 41,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0129",
+    "lat": 55.070507,
+    "lng": -111.271463,
+    "status": "inactive",
+    "emissions": 58.8,
+    "ghgScore": 54,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0130",
+    "lat": 55.498495,
+    "lng": -119.495653,
+    "status": "active",
+    "emissions": 34.3,
+    "ghgScore": 34,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0131",
+    "lat": 56.298214,
+    "lng": -111.284885,
+    "status": "inactive",
+    "emissions": 70.8,
+    "ghgScore": 73,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0132",
+    "lat": 51.898239,
+    "lng": -115.896226,
+    "status": "active",
+    "emissions": 64.9,
+    "ghgScore": 70,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0133",
+    "lat": 51.439241,
+    "lng": -112.007298,
+    "status": "active",
+    "emissions": 76.6,
+    "ghgScore": 81,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0134",
+    "lat": 57.25465,
+    "lng": -118.290253,
+    "status": "abandoned",
+    "emissions": 74.8,
+    "ghgScore": 77,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0135",
+    "lat": 54.803661,
+    "lng": -111.943976,
+    "status": "active",
+    "emissions": 42.0,
+    "ghgScore": 42,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0136",
+    "lat": 50.894383,
+    "lng": -115.053532,
+    "status": "abandoned",
+    "emissions": 2.8,
+    "ghgScore": 2,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0137",
+    "lat": 58.343194,
+    "lng": -118.108417,
+    "status": "active",
+    "emissions": 82.7,
+    "ghgScore": 87,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0138",
+    "lat": 58.121094,
+    "lng": -118.182303,
+    "status": "inactive",
+    "emissions": 92.3,
+    "ghgScore": 92,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0139",
+    "lat": 50.11593,
+    "lng": -118.49331,
+    "status": "active",
+    "emissions": 88.7,
+    "ghgScore": 82,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0140",
+    "lat": 58.748746,
+    "lng": -117.838559,
+    "status": "active",
+    "emissions": 44.5,
+    "ghgScore": 44,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0141",
+    "lat": 56.801805,
+    "lng": -112.94175,
+    "status": "active",
+    "emissions": 38.4,
+    "ghgScore": 40,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0142",
+    "lat": 51.28168,
+    "lng": -119.92245,
+    "status": "abandoned",
+    "emissions": 64.5,
+    "ghgScore": 69,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0143",
+    "lat": 55.581268,
+    "lng": -115.165322,
+    "status": "abandoned",
+    "emissions": 96.2,
+    "ghgScore": 98,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0144",
+    "lat": 52.407081,
+    "lng": -111.375667,
+    "status": "inactive",
+    "emissions": 70.9,
+    "ghgScore": 72,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0145",
+    "lat": 51.798859,
+    "lng": -118.572045,
+    "status": "inactive",
+    "emissions": 91.0,
+    "ghgScore": 95,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0146",
+    "lat": 53.81472,
+    "lng": -118.58739,
+    "status": "inactive",
+    "emissions": 52.3,
+    "ghgScore": 53,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0147",
+    "lat": 51.97034,
+    "lng": -119.110566,
+    "status": "active",
+    "emissions": 84.3,
+    "ghgScore": 85,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0148",
+    "lat": 57.696693,
+    "lng": -114.956934,
+    "status": "active",
+    "emissions": 45.9,
+    "ghgScore": 42,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0149",
+    "lat": 57.135697,
+    "lng": -118.030485,
+    "status": "active",
+    "emissions": 16.9,
+    "ghgScore": 15,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0150",
+    "lat": 54.338649,
+    "lng": -119.451659,
+    "status": "active",
+    "emissions": 63.9,
+    "ghgScore": 59,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0151",
+    "lat": 54.911666,
+    "lng": -112.258866,
+    "status": "active",
+    "emissions": 40.5,
+    "ghgScore": 38,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0152",
+    "lat": 55.317864,
+    "lng": -118.902026,
+    "status": "active",
+    "emissions": 43.3,
+    "ghgScore": 42,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0153",
+    "lat": 54.617915,
+    "lng": -111.495869,
+    "status": "inactive",
+    "emissions": 82.2,
+    "ghgScore": 78,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0154",
+    "lat": 54.167314,
+    "lng": -111.180134,
+    "status": "active",
+    "emissions": 16.6,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0155",
+    "lat": 56.15777,
+    "lng": -116.608096,
+    "status": "active",
+    "emissions": 28.4,
+    "ghgScore": 26,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0156",
+    "lat": 52.932646,
+    "lng": -117.29757,
+    "status": "inactive",
+    "emissions": 64.1,
+    "ghgScore": 64,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0157",
+    "lat": 56.694761,
+    "lng": -116.041717,
+    "status": "active",
+    "emissions": 26.3,
+    "ghgScore": 24,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0158",
+    "lat": 57.447582,
+    "lng": -113.696071,
+    "status": "inactive",
+    "emissions": 92.9,
+    "ghgScore": 100,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0159",
+    "lat": 58.442204,
+    "lng": -112.428972,
+    "status": "abandoned",
+    "emissions": 41.1,
+    "ghgScore": 37,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0160",
+    "lat": 51.173294,
+    "lng": -116.152837,
+    "status": "active",
+    "emissions": 67.0,
+    "ghgScore": 66,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0161",
+    "lat": 58.50443,
+    "lng": -115.495052,
+    "status": "inactive",
+    "emissions": 39.5,
+    "ghgScore": 41,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0162",
+    "lat": 56.809871,
+    "lng": -115.219512,
+    "status": "active",
+    "emissions": 55.1,
+    "ghgScore": 53,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0163",
+    "lat": 51.651805,
+    "lng": -115.690816,
+    "status": "active",
+    "emissions": 20.5,
+    "ghgScore": 19,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0164",
+    "lat": 51.976456,
+    "lng": -111.076748,
+    "status": "active",
+    "emissions": 27.5,
+    "ghgScore": 28,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0165",
+    "lat": 52.075422,
+    "lng": -119.252384,
+    "status": "inactive",
+    "emissions": 20.4,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0166",
+    "lat": 49.768983,
+    "lng": -116.26361,
+    "status": "abandoned",
+    "emissions": 56.2,
+    "ghgScore": 51,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0167",
+    "lat": 54.004793,
+    "lng": -118.747098,
+    "status": "inactive",
+    "emissions": 14.3,
+    "ghgScore": 14,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0168",
+    "lat": 55.380408,
+    "lng": -117.383907,
+    "status": "abandoned",
+    "emissions": 47.3,
+    "ghgScore": 43,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0169",
+    "lat": 58.987359,
+    "lng": -113.516321,
+    "status": "inactive",
+    "emissions": 89.0,
+    "ghgScore": 92,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0170",
+    "lat": 58.150644,
+    "lng": -116.748427,
+    "status": "abandoned",
+    "emissions": 64.9,
+    "ghgScore": 70,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0171",
+    "lat": 49.942395,
+    "lng": -117.159377,
+    "status": "active",
+    "emissions": 10.6,
+    "ghgScore": 11,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0172",
+    "lat": 50.439497,
+    "lng": -116.579076,
+    "status": "active",
+    "emissions": 59.7,
+    "ghgScore": 59,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0173",
+    "lat": 57.453479,
+    "lng": -110.721374,
+    "status": "inactive",
+    "emissions": 40.1,
+    "ghgScore": 38,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0174",
+    "lat": 55.205338,
+    "lng": -119.868231,
+    "status": "active",
+    "emissions": 68.7,
+    "ghgScore": 71,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0175",
+    "lat": 57.329647,
+    "lng": -118.894637,
+    "status": "inactive",
+    "emissions": 2.7,
+    "ghgScore": 2,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0176",
+    "lat": 56.069557,
+    "lng": -117.391705,
+    "status": "active",
+    "emissions": 99.4,
+    "ghgScore": 5,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0177",
+    "lat": 49.871857,
+    "lng": -115.634908,
+    "status": "abandoned",
+    "emissions": 25.2,
+    "ghgScore": 25,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0178",
+    "lat": 55.18914,
+    "lng": -110.498944,
+    "status": "active",
+    "emissions": 50.9,
+    "ghgScore": 48,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0179",
+    "lat": 55.008347,
+    "lng": -116.534562,
+    "status": "abandoned",
+    "emissions": 71.4,
+    "ghgScore": 74,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0180",
+    "lat": 50.383509,
+    "lng": -118.384377,
+    "status": "inactive",
+    "emissions": 86.9,
+    "ghgScore": 85,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0181",
+    "lat": 53.064659,
+    "lng": -112.419878,
+    "status": "active",
+    "emissions": 15.4,
+    "ghgScore": 15,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0182",
+    "lat": 55.865438,
+    "lng": -111.148864,
+    "status": "active",
+    "emissions": 44.1,
+    "ghgScore": 45,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0183",
+    "lat": 52.592765,
+    "lng": -116.301679,
+    "status": "active",
+    "emissions": 74.4,
+    "ghgScore": 70,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0184",
+    "lat": 49.809048,
+    "lng": -113.179538,
+    "status": "active",
+    "emissions": 10.2,
+    "ghgScore": 10,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0185",
+    "lat": 57.978155,
+    "lng": -112.35414,
+    "status": "active",
+    "emissions": 37.3,
+    "ghgScore": 38,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0186",
+    "lat": 58.213137,
+    "lng": -113.685779,
+    "status": "active",
+    "emissions": 8.2,
+    "ghgScore": 8,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0187",
+    "lat": 55.247895,
+    "lng": -117.680677,
+    "status": "active",
+    "emissions": 85.5,
+    "ghgScore": 80,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0188",
+    "lat": 58.337542,
+    "lng": -111.854116,
+    "status": "inactive",
+    "emissions": 0.5,
+    "ghgScore": 0,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0189",
+    "lat": 55.350803,
+    "lng": -111.322657,
+    "status": "active",
+    "emissions": 92.4,
+    "ghgScore": 94,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0190",
+    "lat": 57.540708,
+    "lng": -115.637837,
+    "status": "active",
+    "emissions": 9.9,
+    "ghgScore": 9,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0191",
+    "lat": 51.885483,
+    "lng": -112.810251,
+    "status": "inactive",
+    "emissions": 71.7,
+    "ghgScore": 66,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0192",
+    "lat": 51.428206,
+    "lng": -116.375776,
+    "status": "active",
+    "emissions": 88.2,
+    "ghgScore": 79,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0193",
+    "lat": 51.387667,
+    "lng": -113.753077,
+    "status": "active",
+    "emissions": 54.3,
+    "ghgScore": 50,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0194",
+    "lat": 57.120056,
+    "lng": -116.354378,
+    "status": "active",
+    "emissions": 87.6,
+    "ghgScore": 94,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0195",
+    "lat": 51.284123,
+    "lng": -116.474726,
+    "status": "inactive",
+    "emissions": 62.3,
+    "ghgScore": 57,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0196",
+    "lat": 55.410853,
+    "lng": -111.849879,
+    "status": "active",
+    "emissions": 55.5,
+    "ghgScore": 54,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0197",
+    "lat": 52.980801,
+    "lng": -118.331748,
+    "status": "abandoned",
+    "emissions": 73.2,
+    "ghgScore": 78,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0198",
+    "lat": 57.200253,
+    "lng": -117.841645,
+    "status": "active",
+    "emissions": 48.5,
+    "ghgScore": 44,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0199",
+    "lat": 56.260742,
+    "lng": -113.001028,
+    "status": "active",
+    "emissions": 12.9,
+    "ghgScore": 11,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0200",
+    "lat": 58.88797,
+    "lng": -119.547978,
+    "status": "inactive",
+    "emissions": 61.9,
+    "ghgScore": 62,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0201",
+    "lat": 58.687385,
+    "lng": -110.908608,
+    "status": "inactive",
+    "emissions": 26.0,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0202",
+    "lat": 57.718665,
+    "lng": -119.762462,
+    "status": "abandoned",
+    "emissions": 52.7,
+    "ghgScore": 52,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0203",
+    "lat": 55.171024,
+    "lng": -114.368927,
+    "status": "active",
+    "emissions": 0.7,
+    "ghgScore": 0,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0204",
+    "lat": 58.627737,
+    "lng": -111.521575,
+    "status": "inactive",
+    "emissions": 19.8,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0205",
+    "lat": 54.934804,
+    "lng": -110.800181,
+    "status": "abandoned",
+    "emissions": 2.2,
+    "ghgScore": 2,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0206",
+    "lat": 56.909193,
+    "lng": -116.99961,
+    "status": "abandoned",
+    "emissions": 92.3,
+    "ghgScore": 90,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0207",
+    "lat": 53.392322,
+    "lng": -110.721176,
+    "status": "inactive",
+    "emissions": 98.3,
+    "ghgScore": 1,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0208",
+    "lat": 52.825674,
+    "lng": -112.077781,
+    "status": "abandoned",
+    "emissions": 36.2,
+    "ghgScore": 36,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0209",
+    "lat": 50.538754,
+    "lng": -118.001002,
+    "status": "active",
+    "emissions": 78.2,
+    "ghgScore": 81,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0210",
+    "lat": 56.943193,
+    "lng": -112.007632,
+    "status": "abandoned",
+    "emissions": 96.2,
+    "ghgScore": 95,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0211",
+    "lat": 58.770244,
+    "lng": -111.286536,
+    "status": "active",
+    "emissions": 8.1,
+    "ghgScore": 7,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0212",
+    "lat": 57.730105,
+    "lng": -118.292642,
+    "status": "active",
+    "emissions": 19.4,
+    "ghgScore": 18,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0213",
+    "lat": 56.005335,
+    "lng": -114.317089,
+    "status": "inactive",
+    "emissions": 76.6,
+    "ghgScore": 82,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0214",
+    "lat": 52.416377,
+    "lng": -119.211115,
+    "status": "inactive",
+    "emissions": 57.7,
+    "ghgScore": 62,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0215",
+    "lat": 50.278811,
+    "lng": -116.155963,
+    "status": "abandoned",
+    "emissions": 2.9,
+    "ghgScore": 3,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0216",
+    "lat": 49.841833,
+    "lng": -117.103758,
+    "status": "active",
+    "emissions": 19.6,
+    "ghgScore": 17,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0217",
+    "lat": 56.914239,
+    "lng": -115.494882,
+    "status": "inactive",
+    "emissions": 91.0,
+    "ghgScore": 83,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0218",
+    "lat": 58.045497,
+    "lng": -117.850663,
+    "status": "active",
+    "emissions": 72.9,
+    "ghgScore": 79,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0219",
+    "lat": 57.928313,
+    "lng": -114.505434,
+    "status": "active",
+    "emissions": 44.9,
+    "ghgScore": 41,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0220",
+    "lat": 53.617236,
+    "lng": -118.461455,
+    "status": "abandoned",
+    "emissions": 51.5,
+    "ghgScore": 54,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0221",
+    "lat": 51.772275,
+    "lng": -116.585244,
+    "status": "abandoned",
+    "emissions": 7.9,
+    "ghgScore": 7,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0222",
+    "lat": 56.849286,
+    "lng": -113.205667,
+    "status": "abandoned",
+    "emissions": 72.3,
+    "ghgScore": 72,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0223",
+    "lat": 58.804067,
+    "lng": -113.613617,
+    "status": "active",
+    "emissions": 64.0,
+    "ghgScore": 64,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0224",
+    "lat": 53.37464,
+    "lng": -112.623272,
+    "status": "inactive",
+    "emissions": 30.4,
+    "ghgScore": 28,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0225",
+    "lat": 51.600628,
+    "lng": -112.156506,
+    "status": "abandoned",
+    "emissions": 19.4,
+    "ghgScore": 20,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0226",
+    "lat": 50.062081,
+    "lng": -113.56766,
+    "status": "active",
+    "emissions": 92.3,
+    "ghgScore": 93,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0227",
+    "lat": 55.955832,
+    "lng": -117.859982,
+    "status": "active",
+    "emissions": 53.2,
+    "ghgScore": 50,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0228",
+    "lat": 51.783046,
+    "lng": -118.39324,
+    "status": "abandoned",
+    "emissions": 38.0,
+    "ghgScore": 39,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0229",
+    "lat": 57.137728,
+    "lng": -115.505469,
+    "status": "active",
+    "emissions": 26.6,
+    "ghgScore": 29,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0230",
+    "lat": 55.754307,
+    "lng": -112.151619,
+    "status": "inactive",
+    "emissions": 3.7,
+    "ghgScore": 3,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0231",
+    "lat": 53.518705,
+    "lng": -119.34434,
+    "status": "active",
+    "emissions": 97.2,
+    "ghgScore": 2,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0232",
+    "lat": 58.804048,
+    "lng": -117.211702,
+    "status": "inactive",
+    "emissions": 52.9,
+    "ghgScore": 53,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0233",
+    "lat": 49.899788,
+    "lng": -113.257061,
+    "status": "inactive",
+    "emissions": 26.6,
+    "ghgScore": 25,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0234",
+    "lat": 52.957857,
+    "lng": -114.151258,
+    "status": "active",
+    "emissions": 8.0,
+    "ghgScore": 8,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0235",
+    "lat": 53.001304,
+    "lng": -119.87184,
+    "status": "active",
+    "emissions": 61.0,
+    "ghgScore": 58,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0236",
+    "lat": 52.272386,
+    "lng": -110.502465,
+    "status": "inactive",
+    "emissions": 59.4,
+    "ghgScore": 55,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0237",
+    "lat": 51.624162,
+    "lng": -112.080815,
+    "status": "active",
+    "emissions": 83.3,
+    "ghgScore": 90,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0238",
+    "lat": 50.768178,
+    "lng": -116.290194,
+    "status": "active",
+    "emissions": 26.4,
+    "ghgScore": 27,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0239",
+    "lat": 56.371517,
+    "lng": -115.189772,
+    "status": "active",
+    "emissions": 59.5,
+    "ghgScore": 61,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0240",
+    "lat": 58.785443,
+    "lng": -110.386798,
+    "status": "active",
+    "emissions": 87.1,
+    "ghgScore": 79,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0241",
+    "lat": 57.201076,
+    "lng": -117.940771,
+    "status": "abandoned",
+    "emissions": 15.7,
+    "ghgScore": 14,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0242",
+    "lat": 51.965949,
+    "lng": -118.684438,
+    "status": "abandoned",
+    "emissions": 8.9,
+    "ghgScore": 8,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0243",
+    "lat": 53.440881,
+    "lng": -110.412465,
+    "status": "active",
+    "emissions": 18.3,
+    "ghgScore": 17,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0244",
+    "lat": 56.459417,
+    "lng": -113.743802,
+    "status": "inactive",
+    "emissions": 6.4,
+    "ghgScore": 5,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0245",
+    "lat": 52.409107,
+    "lng": -113.308546,
+    "status": "active",
+    "emissions": 15.8,
+    "ghgScore": 15,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0246",
+    "lat": 56.450777,
+    "lng": -114.00569,
+    "status": "abandoned",
+    "emissions": 90.6,
+    "ghgScore": 84,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0247",
+    "lat": 55.798376,
+    "lng": -114.890929,
+    "status": "inactive",
+    "emissions": 67.5,
+    "ghgScore": 64,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0248",
+    "lat": 58.980325,
+    "lng": -116.638287,
+    "status": "active",
+    "emissions": 44.9,
+    "ghgScore": 41,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0249",
+    "lat": 55.549617,
+    "lng": -117.12084,
+    "status": "active",
+    "emissions": 79.5,
+    "ghgScore": 80,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0250",
+    "lat": 49.717928,
+    "lng": -116.128064,
+    "status": "active",
+    "emissions": 19.2,
+    "ghgScore": 20,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0251",
+    "lat": 56.980438,
+    "lng": -112.55995,
+    "status": "inactive",
+    "emissions": 26.3,
+    "ghgScore": 24,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0252",
+    "lat": 57.743554,
+    "lng": -116.584251,
+    "status": "active",
+    "emissions": 95.4,
+    "ghgScore": 93,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0253",
+    "lat": 57.112203,
+    "lng": -117.539472,
+    "status": "inactive",
+    "emissions": 85.8,
+    "ghgScore": 83,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0254",
+    "lat": 53.358995,
+    "lng": -110.542416,
+    "status": "active",
+    "emissions": 51.5,
+    "ghgScore": 51,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0255",
+    "lat": 50.761636,
+    "lng": -116.255957,
+    "status": "active",
+    "emissions": 84.8,
+    "ghgScore": 86,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0256",
+    "lat": 56.16998,
+    "lng": -119.984002,
+    "status": "inactive",
+    "emissions": 20.6,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0257",
+    "lat": 53.261971,
+    "lng": -114.323933,
+    "status": "inactive",
+    "emissions": 22.6,
+    "ghgScore": 21,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0258",
+    "lat": 54.419433,
+    "lng": -113.782161,
+    "status": "active",
+    "emissions": 55.3,
+    "ghgScore": 50,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0259",
+    "lat": 49.680198,
+    "lng": -110.490159,
+    "status": "active",
+    "emissions": 87.1,
+    "ghgScore": 86,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0260",
+    "lat": 49.681152,
+    "lng": -112.018808,
+    "status": "active",
+    "emissions": 99.6,
+    "ghgScore": 4,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0261",
+    "lat": 58.697244,
+    "lng": -110.868368,
+    "status": "active",
+    "emissions": 21.0,
+    "ghgScore": 21,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0262",
+    "lat": 53.171467,
+    "lng": -115.957319,
+    "status": "inactive",
+    "emissions": 57.8,
+    "ghgScore": 58,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0263",
+    "lat": 58.206486,
+    "lng": -114.689069,
+    "status": "inactive",
+    "emissions": 69.5,
+    "ghgScore": 69,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0264",
+    "lat": 49.912936,
+    "lng": -112.550595,
+    "status": "active",
+    "emissions": 4.2,
+    "ghgScore": 3,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0265",
+    "lat": 56.665723,
+    "lng": -111.500371,
+    "status": "inactive",
+    "emissions": 50.3,
+    "ghgScore": 53,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0266",
+    "lat": 56.331536,
+    "lng": -118.835955,
+    "status": "active",
+    "emissions": 52.0,
+    "ghgScore": 55,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0267",
+    "lat": 52.280101,
+    "lng": -114.112447,
+    "status": "active",
+    "emissions": 7.1,
+    "ghgScore": 7,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0268",
+    "lat": 51.323426,
+    "lng": -110.276466,
+    "status": "active",
+    "emissions": 42.6,
+    "ghgScore": 45,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0269",
+    "lat": 50.529827,
+    "lng": -115.928683,
+    "status": "active",
+    "emissions": 69.4,
+    "ghgScore": 75,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0270",
+    "lat": 50.426537,
+    "lng": -113.980609,
+    "status": "inactive",
+    "emissions": 43.9,
+    "ghgScore": 44,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0271",
+    "lat": 52.454053,
+    "lng": -119.573294,
+    "status": "inactive",
+    "emissions": 16.7,
+    "ghgScore": 16,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0272",
+    "lat": 58.168586,
+    "lng": -112.299807,
+    "status": "active",
+    "emissions": 40.5,
+    "ghgScore": 37,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0273",
+    "lat": 54.861428,
+    "lng": -115.138139,
+    "status": "active",
+    "emissions": 76.5,
+    "ghgScore": 73,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0274",
+    "lat": 54.402189,
+    "lng": -115.771296,
+    "status": "inactive",
+    "emissions": 20.8,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0275",
+    "lat": 58.874421,
+    "lng": -119.105799,
+    "status": "active",
+    "emissions": 98.3,
+    "ghgScore": 95,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0276",
+    "lat": 58.09117,
+    "lng": -110.216828,
+    "status": "active",
+    "emissions": 1.8,
+    "ghgScore": 1,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0277",
+    "lat": 49.971215,
+    "lng": -114.889833,
+    "status": "inactive",
+    "emissions": 99.6,
+    "ghgScore": 92,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0278",
+    "lat": 55.41897,
+    "lng": -115.565935,
+    "status": "active",
+    "emissions": 73.5,
+    "ghgScore": 70,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0279",
+    "lat": 56.99264,
+    "lng": -119.906599,
+    "status": "active",
+    "emissions": 64.4,
+    "ghgScore": 65,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0280",
+    "lat": 54.621874,
+    "lng": -110.17914,
+    "status": "active",
+    "emissions": 26.6,
+    "ghgScore": 24,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0281",
+    "lat": 58.281123,
+    "lng": -113.578825,
+    "status": "inactive",
+    "emissions": 55.4,
+    "ghgScore": 55,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0282",
+    "lat": 53.078001,
+    "lng": -114.357656,
+    "status": "inactive",
+    "emissions": 93.2,
+    "ghgScore": 90,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0283",
+    "lat": 49.790634,
+    "lng": -116.639264,
+    "status": "active",
+    "emissions": 73.6,
+    "ghgScore": 72,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0284",
+    "lat": 53.492112,
+    "lng": -113.569807,
+    "status": "active",
+    "emissions": 79.1,
+    "ghgScore": 86,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0285",
+    "lat": 51.705154,
+    "lng": -116.69704,
+    "status": "inactive",
+    "emissions": 3.6,
+    "ghgScore": 3,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0286",
+    "lat": 55.264728,
+    "lng": -119.715891,
+    "status": "active",
+    "emissions": 15.6,
+    "ghgScore": 15,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0287",
+    "lat": 53.319738,
+    "lng": -117.249805,
+    "status": "active",
+    "emissions": 34.2,
+    "ghgScore": 36,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0288",
+    "lat": 52.896454,
+    "lng": -117.034327,
+    "status": "active",
+    "emissions": 24.7,
+    "ghgScore": 23,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0289",
+    "lat": 53.132465,
+    "lng": -111.751748,
+    "status": "abandoned",
+    "emissions": 93.7,
+    "ghgScore": 88,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0290",
+    "lat": 52.516744,
+    "lng": -113.178822,
+    "status": "active",
+    "emissions": 59.4,
+    "ghgScore": 61,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0291",
+    "lat": 58.519061,
+    "lng": -115.420602,
+    "status": "active",
+    "emissions": 99.1,
+    "ghgScore": 94,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0292",
+    "lat": 58.095406,
+    "lng": -116.131209,
+    "status": "active",
+    "emissions": 53.7,
+    "ghgScore": 56,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0293",
+    "lat": 52.220745,
+    "lng": -115.842959,
+    "status": "active",
+    "emissions": 27.4,
+    "ghgScore": 24,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0294",
+    "lat": 51.669785,
+    "lng": -114.583987,
+    "status": "inactive",
+    "emissions": 95.0,
+    "ghgScore": 3,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0295",
+    "lat": 54.767729,
+    "lng": -114.115334,
+    "status": "active",
+    "emissions": 69.4,
+    "ghgScore": 62,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0296",
+    "lat": 55.171284,
+    "lng": -111.65317,
+    "status": "active",
+    "emissions": 67.7,
+    "ghgScore": 73,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0297",
+    "lat": 52.513005,
+    "lng": -117.214656,
+    "status": "active",
+    "emissions": 84.2,
+    "ghgScore": 90,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0298",
+    "lat": 58.739741,
+    "lng": -115.171858,
+    "status": "inactive",
+    "emissions": 11.8,
+    "ghgScore": 10,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0299",
+    "lat": 55.818228,
+    "lng": -115.267903,
+    "status": "active",
+    "emissions": 79.1,
+    "ghgScore": 73,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0300",
+    "lat": 54.200446,
+    "lng": -112.950771,
+    "status": "active",
+    "emissions": 90.8,
+    "ghgScore": 83,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0301",
+    "lat": 58.26475,
+    "lng": -112.453247,
+    "status": "active",
+    "emissions": 62.1,
+    "ghgScore": 57,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0302",
+    "lat": 53.317649,
+    "lng": -111.611443,
+    "status": "active",
+    "emissions": 57.4,
+    "ghgScore": 63,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0303",
+    "lat": 57.277482,
+    "lng": -116.990544,
+    "status": "active",
+    "emissions": 23.4,
+    "ghgScore": 21,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0304",
+    "lat": 57.839959,
+    "lng": -115.224106,
+    "status": "inactive",
+    "emissions": 16.2,
+    "ghgScore": 17,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0305",
+    "lat": 53.726376,
+    "lng": -114.200324,
+    "status": "active",
+    "emissions": 26.0,
+    "ghgScore": 24,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0306",
+    "lat": 50.850686,
+    "lng": -113.774009,
+    "status": "active",
+    "emissions": 99.6,
+    "ghgScore": 4,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0307",
+    "lat": 51.172926,
+    "lng": -110.256208,
+    "status": "inactive",
+    "emissions": 59.3,
+    "ghgScore": 60,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0308",
+    "lat": 49.882971,
+    "lng": -112.254321,
+    "status": "active",
+    "emissions": 85.3,
+    "ghgScore": 92,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0309",
+    "lat": 51.209691,
+    "lng": -117.866338,
+    "status": "active",
+    "emissions": 29.0,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0310",
+    "lat": 53.994565,
+    "lng": -118.313639,
+    "status": "active",
+    "emissions": 88.0,
+    "ghgScore": 84,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0311",
+    "lat": 57.027031,
+    "lng": -119.86012,
+    "status": "abandoned",
+    "emissions": 37.1,
+    "ghgScore": 33,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0312",
+    "lat": 52.962735,
+    "lng": -119.695477,
+    "status": "abandoned",
+    "emissions": 1.8,
+    "ghgScore": 1,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0313",
+    "lat": 50.220597,
+    "lng": -118.523553,
+    "status": "inactive",
+    "emissions": 6.1,
+    "ghgScore": 6,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0314",
+    "lat": 55.486411,
+    "lng": -112.400513,
+    "status": "active",
+    "emissions": 46.6,
+    "ghgScore": 49,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0315",
+    "lat": 58.784615,
+    "lng": -112.024526,
+    "status": "active",
+    "emissions": 63.3,
+    "ghgScore": 68,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0316",
+    "lat": 54.1589,
+    "lng": -114.162381,
+    "status": "active",
+    "emissions": 59.3,
+    "ghgScore": 53,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0317",
+    "lat": 52.335367,
+    "lng": -112.275467,
+    "status": "active",
+    "emissions": 60.5,
+    "ghgScore": 64,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0318",
+    "lat": 55.130591,
+    "lng": -111.198976,
+    "status": "abandoned",
+    "emissions": 72.0,
+    "ghgScore": 78,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0319",
+    "lat": 51.575752,
+    "lng": -115.392765,
+    "status": "active",
+    "emissions": 8.8,
+    "ghgScore": 9,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0320",
+    "lat": 56.248893,
+    "lng": -117.366931,
+    "status": "inactive",
+    "emissions": 58.1,
+    "ghgScore": 57,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0321",
+    "lat": 52.581822,
+    "lng": -119.428763,
+    "status": "inactive",
+    "emissions": 8.9,
+    "ghgScore": 8,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0322",
+    "lat": 53.949063,
+    "lng": -117.266875,
+    "status": "active",
+    "emissions": 40.4,
+    "ghgScore": 41,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0323",
+    "lat": 50.639829,
+    "lng": -118.742633,
+    "status": "active",
+    "emissions": 99.2,
+    "ghgScore": 99,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0324",
+    "lat": 58.978428,
+    "lng": -116.315004,
+    "status": "active",
+    "emissions": 81.9,
+    "ghgScore": 79,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0325",
+    "lat": 53.711468,
+    "lng": -113.208452,
+    "status": "abandoned",
+    "emissions": 57.2,
+    "ghgScore": 58,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0326",
+    "lat": 57.881675,
+    "lng": -115.474562,
+    "status": "active",
+    "emissions": 62.6,
+    "ghgScore": 67,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0327",
+    "lat": 56.649838,
+    "lng": -111.194198,
+    "status": "active",
+    "emissions": 85.5,
+    "ghgScore": 91,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0328",
+    "lat": 52.044008,
+    "lng": -117.658951,
+    "status": "active",
+    "emissions": 55.6,
+    "ghgScore": 52,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0329",
+    "lat": 54.484558,
+    "lng": -113.392506,
+    "status": "active",
+    "emissions": 94.8,
+    "ghgScore": 95,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0330",
+    "lat": 54.989126,
+    "lng": -116.288447,
+    "status": "active",
+    "emissions": 17.5,
+    "ghgScore": 19,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0331",
+    "lat": 51.974871,
+    "lng": -111.468394,
+    "status": "active",
+    "emissions": 65.1,
+    "ghgScore": 59,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0332",
+    "lat": 57.318538,
+    "lng": -115.219012,
+    "status": "active",
+    "emissions": 75.2,
+    "ghgScore": 75,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0333",
+    "lat": 50.571334,
+    "lng": -118.933167,
+    "status": "inactive",
+    "emissions": 99.5,
+    "ghgScore": 97,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0334",
+    "lat": 57.9388,
+    "lng": -110.531084,
+    "status": "active",
+    "emissions": 42.7,
+    "ghgScore": 44,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0335",
+    "lat": 50.53487,
+    "lng": -118.788631,
+    "status": "abandoned",
+    "emissions": 6.4,
+    "ghgScore": 6,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0336",
+    "lat": 51.158143,
+    "lng": -111.549161,
+    "status": "inactive",
+    "emissions": 86.2,
+    "ghgScore": 92,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0337",
+    "lat": 51.980877,
+    "lng": -111.515121,
+    "status": "inactive",
+    "emissions": 9.0,
+    "ghgScore": 9,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0338",
+    "lat": 54.709253,
+    "lng": -114.378395,
+    "status": "active",
+    "emissions": 84.3,
+    "ghgScore": 89,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0339",
+    "lat": 54.788065,
+    "lng": -110.70312,
+    "status": "active",
+    "emissions": 43.5,
+    "ghgScore": 45,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0340",
+    "lat": 51.38372,
+    "lng": -111.594531,
+    "status": "active",
+    "emissions": 17.7,
+    "ghgScore": 19,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0341",
+    "lat": 58.301211,
+    "lng": -114.580959,
+    "status": "active",
+    "emissions": 17.9,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0342",
+    "lat": 55.471758,
+    "lng": -119.075915,
+    "status": "active",
+    "emissions": 99.5,
+    "ghgScore": 0,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0343",
+    "lat": 53.492571,
+    "lng": -115.081181,
+    "status": "active",
+    "emissions": 61.9,
+    "ghgScore": 63,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0344",
+    "lat": 52.773328,
+    "lng": -112.645875,
+    "status": "active",
+    "emissions": 70.8,
+    "ghgScore": 72,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0345",
+    "lat": 58.361383,
+    "lng": -116.433116,
+    "status": "inactive",
+    "emissions": 50.4,
+    "ghgScore": 50,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0346",
+    "lat": 58.567739,
+    "lng": -111.69216,
+    "status": "active",
+    "emissions": 59.9,
+    "ghgScore": 61,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0347",
+    "lat": 50.901155,
+    "lng": -111.437817,
+    "status": "inactive",
+    "emissions": 76.0,
+    "ghgScore": 83,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0348",
+    "lat": 58.869433,
+    "lng": -116.188864,
+    "status": "abandoned",
+    "emissions": 58.1,
+    "ghgScore": 62,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0349",
+    "lat": 51.079659,
+    "lng": -116.329726,
+    "status": "active",
+    "emissions": 30.7,
+    "ghgScore": 28,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0350",
+    "lat": 57.609768,
+    "lng": -115.3063,
+    "status": "active",
+    "emissions": 94.5,
+    "ghgScore": 88,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0351",
+    "lat": 57.564508,
+    "lng": -110.114264,
+    "status": "active",
+    "emissions": 73.0,
+    "ghgScore": 79,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0352",
+    "lat": 56.181497,
+    "lng": -118.499129,
+    "status": "active",
+    "emissions": 99.1,
+    "ghgScore": 5,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0353",
+    "lat": 56.880581,
+    "lng": -114.414178,
+    "status": "abandoned",
+    "emissions": 24.3,
+    "ghgScore": 25,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0354",
+    "lat": 54.590238,
+    "lng": -114.662528,
+    "status": "active",
+    "emissions": 89.0,
+    "ghgScore": 80,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0355",
+    "lat": 52.002386,
+    "lng": -110.904806,
+    "status": "inactive",
+    "emissions": 14.0,
+    "ghgScore": 13,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0356",
+    "lat": 53.09397,
+    "lng": -119.212578,
+    "status": "active",
+    "emissions": 57.3,
+    "ghgScore": 59,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0357",
+    "lat": 56.453949,
+    "lng": -118.765402,
+    "status": "active",
+    "emissions": 19.1,
+    "ghgScore": 17,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0358",
+    "lat": 56.87411,
+    "lng": -117.415896,
+    "status": "inactive",
+    "emissions": 22.2,
+    "ghgScore": 21,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0359",
+    "lat": 50.759474,
+    "lng": -118.894621,
+    "status": "inactive",
+    "emissions": 35.2,
+    "ghgScore": 36,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0360",
+    "lat": 51.50886,
+    "lng": -116.716327,
+    "status": "active",
+    "emissions": 60.5,
+    "ghgScore": 55,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0361",
+    "lat": 56.283801,
+    "lng": -117.462724,
+    "status": "active",
+    "emissions": 94.6,
+    "ghgScore": 91,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0362",
+    "lat": 51.858923,
+    "lng": -119.050463,
+    "status": "active",
+    "emissions": 63.9,
+    "ghgScore": 62,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0363",
+    "lat": 52.124788,
+    "lng": -111.857272,
+    "status": "active",
+    "emissions": 1.5,
+    "ghgScore": 1,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0364",
+    "lat": 54.713202,
+    "lng": -112.262423,
+    "status": "active",
+    "emissions": 22.1,
+    "ghgScore": 22,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0365",
+    "lat": 55.23324,
+    "lng": -115.305419,
+    "status": "inactive",
+    "emissions": 8.1,
+    "ghgScore": 7,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0366",
+    "lat": 51.088113,
+    "lng": -115.49712,
+    "status": "inactive",
+    "emissions": 18.7,
+    "ghgScore": 17,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0367",
+    "lat": 53.552848,
+    "lng": -113.694024,
+    "status": "active",
+    "emissions": 57.9,
+    "ghgScore": 62,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0368",
+    "lat": 57.69323,
+    "lng": -113.527427,
+    "status": "active",
+    "emissions": 47.9,
+    "ghgScore": 48,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0369",
+    "lat": 51.606905,
+    "lng": -113.189887,
+    "status": "inactive",
+    "emissions": 53.1,
+    "ghgScore": 53,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0370",
+    "lat": 55.624213,
+    "lng": -113.099593,
+    "status": "abandoned",
+    "emissions": 46.5,
+    "ghgScore": 45,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0371",
+    "lat": 58.57342,
+    "lng": -113.799454,
+    "status": "active",
+    "emissions": 61.1,
+    "ghgScore": 67,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0372",
+    "lat": 57.155101,
+    "lng": -118.14167,
+    "status": "active",
+    "emissions": 7.6,
+    "ghgScore": 8,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0373",
+    "lat": 49.980691,
+    "lng": -117.379569,
+    "status": "inactive",
+    "emissions": 4.1,
+    "ghgScore": 3,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0374",
+    "lat": 54.384776,
+    "lng": -112.082422,
+    "status": "active",
+    "emissions": 71.8,
+    "ghgScore": 75,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0375",
+    "lat": 51.549411,
+    "lng": -115.375444,
+    "status": "abandoned",
+    "emissions": 47.1,
+    "ghgScore": 49,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0376",
+    "lat": 49.721421,
+    "lng": -119.514915,
+    "status": "inactive",
+    "emissions": 5.0,
+    "ghgScore": 4,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0377",
+    "lat": 52.475796,
+    "lng": -117.268869,
+    "status": "active",
+    "emissions": 53.9,
+    "ghgScore": 54,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0378",
+    "lat": 51.709162,
+    "lng": -116.761678,
+    "status": "active",
+    "emissions": 9.5,
+    "ghgScore": 9,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0379",
+    "lat": 56.653617,
+    "lng": -111.958254,
+    "status": "inactive",
+    "emissions": 15.1,
+    "ghgScore": 14,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0380",
+    "lat": 58.013354,
+    "lng": -110.556419,
+    "status": "active",
+    "emissions": 81.9,
+    "ghgScore": 89,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0381",
+    "lat": 54.841043,
+    "lng": -116.057881,
+    "status": "active",
+    "emissions": 64.2,
+    "ghgScore": 61,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0382",
+    "lat": 57.101257,
+    "lng": -112.585792,
+    "status": "active",
+    "emissions": 92.1,
+    "ghgScore": 87,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0383",
+    "lat": 56.738276,
+    "lng": -119.099415,
+    "status": "active",
+    "emissions": 12.6,
+    "ghgScore": 13,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0384",
+    "lat": 56.983624,
+    "lng": -113.879618,
+    "status": "active",
+    "emissions": 36.1,
+    "ghgScore": 37,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0385",
+    "lat": 50.776653,
+    "lng": -119.684549,
+    "status": "active",
+    "emissions": 54.6,
+    "ghgScore": 56,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0386",
+    "lat": 52.123443,
+    "lng": -117.036492,
+    "status": "abandoned",
+    "emissions": 91.9,
+    "ghgScore": 100,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0387",
+    "lat": 57.555705,
+    "lng": -110.465448,
+    "status": "inactive",
+    "emissions": 69.5,
+    "ghgScore": 75,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0388",
+    "lat": 50.546764,
+    "lng": -112.034879,
+    "status": "inactive",
+    "emissions": 32.0,
+    "ghgScore": 31,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0389",
+    "lat": 55.618702,
+    "lng": -116.127195,
+    "status": "active",
+    "emissions": 39.8,
+    "ghgScore": 37,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0390",
+    "lat": 51.673165,
+    "lng": -118.090038,
+    "status": "active",
+    "emissions": 66.0,
+    "ghgScore": 66,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0391",
+    "lat": 55.588279,
+    "lng": -118.571907,
+    "status": "active",
+    "emissions": 73.7,
+    "ghgScore": 73,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0392",
+    "lat": 52.927411,
+    "lng": -110.04727,
+    "status": "active",
+    "emissions": 88.1,
+    "ghgScore": 83,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0393",
+    "lat": 57.013017,
+    "lng": -117.700193,
+    "status": "inactive",
+    "emissions": 31.8,
+    "ghgScore": 33,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0394",
+    "lat": 54.684801,
+    "lng": -119.596185,
+    "status": "active",
+    "emissions": 26.1,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0395",
+    "lat": 57.881995,
+    "lng": -116.621293,
+    "status": "active",
+    "emissions": 18.4,
+    "ghgScore": 18,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0396",
+    "lat": 58.762152,
+    "lng": -118.543162,
+    "status": "active",
+    "emissions": 93.8,
+    "ghgScore": 98,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0397",
+    "lat": 50.874042,
+    "lng": -119.476366,
+    "status": "active",
+    "emissions": 53.3,
+    "ghgScore": 50,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0398",
+    "lat": 53.356628,
+    "lng": -113.968511,
+    "status": "active",
+    "emissions": 44.0,
+    "ghgScore": 40,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0399",
+    "lat": 57.555659,
+    "lng": -117.169492,
+    "status": "active",
+    "emissions": 84.5,
+    "ghgScore": 84,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0400",
+    "lat": 49.783523,
+    "lng": -111.53905,
+    "status": "inactive",
+    "emissions": 50.5,
+    "ghgScore": 52,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0401",
+    "lat": 52.531183,
+    "lng": -119.336012,
+    "status": "active",
+    "emissions": 78.2,
+    "ghgScore": 85,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0402",
+    "lat": 57.681952,
+    "lng": -118.541189,
+    "status": "inactive",
+    "emissions": 19.1,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0403",
+    "lat": 51.578486,
+    "lng": -113.296294,
+    "status": "abandoned",
+    "emissions": 63.8,
+    "ghgScore": 61,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0404",
+    "lat": 55.823785,
+    "lng": -116.324355,
+    "status": "active",
+    "emissions": 27.3,
+    "ghgScore": 29,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0405",
+    "lat": 49.996059,
+    "lng": -118.43325,
+    "status": "active",
+    "emissions": 47.9,
+    "ghgScore": 46,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0406",
+    "lat": 54.959077,
+    "lng": -114.517728,
+    "status": "active",
+    "emissions": 81.1,
+    "ghgScore": 83,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0407",
+    "lat": 55.427536,
+    "lng": -113.342499,
+    "status": "active",
+    "emissions": 24.8,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0408",
+    "lat": 53.855257,
+    "lng": -115.77407,
+    "status": "active",
+    "emissions": 89.2,
+    "ghgScore": 84,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0409",
+    "lat": 53.54978,
+    "lng": -118.316877,
+    "status": "abandoned",
+    "emissions": 35.5,
+    "ghgScore": 34,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0410",
+    "lat": 57.448336,
+    "lng": -116.753179,
+    "status": "active",
+    "emissions": 82.7,
+    "ghgScore": 83,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0411",
+    "lat": 54.095052,
+    "lng": -116.376242,
+    "status": "abandoned",
+    "emissions": 36.2,
+    "ghgScore": 33,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0412",
+    "lat": 52.751501,
+    "lng": -110.298742,
+    "status": "abandoned",
+    "emissions": 99.2,
+    "ghgScore": 90,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0413",
+    "lat": 55.87494,
+    "lng": -117.286384,
+    "status": "inactive",
+    "emissions": 92.6,
+    "ghgScore": 98,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0414",
+    "lat": 52.497656,
+    "lng": -119.67789,
+    "status": "active",
+    "emissions": 98.9,
+    "ghgScore": 5,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0415",
+    "lat": 52.659114,
+    "lng": -111.681659,
+    "status": "active",
+    "emissions": 49.0,
+    "ghgScore": 46,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0416",
+    "lat": 50.628024,
+    "lng": -118.976956,
+    "status": "inactive",
+    "emissions": 84.0,
+    "ghgScore": 81,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0417",
+    "lat": 49.576872,
+    "lng": -117.670752,
+    "status": "inactive",
+    "emissions": 90.4,
+    "ghgScore": 93,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0418",
+    "lat": 52.37161,
+    "lng": -110.539265,
+    "status": "abandoned",
+    "emissions": 25.8,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0419",
+    "lat": 57.619118,
+    "lng": -110.211685,
+    "status": "inactive",
+    "emissions": 17.5,
+    "ghgScore": 17,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0420",
+    "lat": 58.269505,
+    "lng": -110.088372,
+    "status": "active",
+    "emissions": 7.7,
+    "ghgScore": 8,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0421",
+    "lat": 51.961881,
+    "lng": -115.315486,
+    "status": "inactive",
+    "emissions": 5.6,
+    "ghgScore": 5,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0422",
+    "lat": 52.12709,
+    "lng": -115.64606,
+    "status": "inactive",
+    "emissions": 61.1,
+    "ghgScore": 55,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0423",
+    "lat": 53.414918,
+    "lng": -118.210823,
+    "status": "abandoned",
+    "emissions": 22.1,
+    "ghgScore": 21,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0424",
+    "lat": 49.899789,
+    "lng": -117.074004,
+    "status": "inactive",
+    "emissions": 9.2,
+    "ghgScore": 8,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0425",
+    "lat": 57.860054,
+    "lng": -112.756298,
+    "status": "active",
+    "emissions": 88.9,
+    "ghgScore": 89,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0426",
+    "lat": 55.461515,
+    "lng": -114.513649,
+    "status": "abandoned",
+    "emissions": 71.3,
+    "ghgScore": 77,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0427",
+    "lat": 55.054302,
+    "lng": -119.463689,
+    "status": "active",
+    "emissions": 69.6,
+    "ghgScore": 75,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0428",
+    "lat": 51.15488,
+    "lng": -112.337497,
+    "status": "inactive",
+    "emissions": 68.3,
+    "ghgScore": 67,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0429",
+    "lat": 54.43831,
+    "lng": -114.326647,
+    "status": "active",
+    "emissions": 22.6,
+    "ghgScore": 20,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0430",
+    "lat": 55.894759,
+    "lng": -112.106594,
+    "status": "active",
+    "emissions": 77.5,
+    "ghgScore": 72,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0431",
+    "lat": 56.212277,
+    "lng": -112.396,
+    "status": "abandoned",
+    "emissions": 85.0,
+    "ghgScore": 91,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0432",
+    "lat": 56.016151,
+    "lng": -117.401792,
+    "status": "active",
+    "emissions": 88.5,
+    "ghgScore": 81,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0433",
+    "lat": 54.475577,
+    "lng": -111.745546,
+    "status": "active",
+    "emissions": 4.7,
+    "ghgScore": 4,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0434",
+    "lat": 53.804827,
+    "lng": -115.768645,
+    "status": "inactive",
+    "emissions": 27.1,
+    "ghgScore": 27,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0435",
+    "lat": 53.219456,
+    "lng": -116.936198,
+    "status": "inactive",
+    "emissions": 14.7,
+    "ghgScore": 13,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0436",
+    "lat": 53.949864,
+    "lng": -110.741641,
+    "status": "active",
+    "emissions": 58.9,
+    "ghgScore": 64,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0437",
+    "lat": 55.465073,
+    "lng": -119.702381,
+    "status": "active",
+    "emissions": 87.9,
+    "ghgScore": 85,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0438",
+    "lat": 49.826906,
+    "lng": -118.657163,
+    "status": "inactive",
+    "emissions": 58.9,
+    "ghgScore": 64,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0439",
+    "lat": 50.64051,
+    "lng": -116.283968,
+    "status": "active",
+    "emissions": 57.7,
+    "ghgScore": 62,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0440",
+    "lat": 50.706105,
+    "lng": -118.14959,
+    "status": "active",
+    "emissions": 57.8,
+    "ghgScore": 56,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0441",
+    "lat": 51.154807,
+    "lng": -119.881141,
+    "status": "abandoned",
+    "emissions": 81.4,
+    "ghgScore": 83,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0442",
+    "lat": 56.161192,
+    "lng": -117.813621,
+    "status": "active",
+    "emissions": 5.7,
+    "ghgScore": 5,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0443",
+    "lat": 55.946189,
+    "lng": -116.142767,
+    "status": "active",
+    "emissions": 96.5,
+    "ghgScore": 98,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0444",
+    "lat": 50.71533,
+    "lng": -117.513733,
+    "status": "active",
+    "emissions": 78.1,
+    "ghgScore": 72,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0445",
+    "lat": 50.134643,
+    "lng": -119.280211,
+    "status": "active",
+    "emissions": 7.5,
+    "ghgScore": 7,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0446",
+    "lat": 52.234093,
+    "lng": -116.656736,
+    "status": "inactive",
+    "emissions": 95.9,
+    "ghgScore": 92,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0447",
+    "lat": 53.073603,
+    "lng": -115.389458,
+    "status": "active",
+    "emissions": 94.0,
+    "ghgScore": 88,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0448",
+    "lat": 49.707407,
+    "lng": -114.85294,
+    "status": "active",
+    "emissions": 9.9,
+    "ghgScore": 10,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0449",
+    "lat": 56.088368,
+    "lng": -112.667501,
+    "status": "active",
+    "emissions": 0.5,
+    "ghgScore": 0,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0450",
+    "lat": 49.526518,
+    "lng": -117.772031,
+    "status": "active",
+    "emissions": 64.3,
+    "ghgScore": 62,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0451",
+    "lat": 56.677326,
+    "lng": -117.412058,
+    "status": "abandoned",
+    "emissions": 41.1,
+    "ghgScore": 39,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0452",
+    "lat": 51.656327,
+    "lng": -118.900987,
+    "status": "active",
+    "emissions": 8.1,
+    "ghgScore": 8,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0453",
+    "lat": 58.343618,
+    "lng": -112.750135,
+    "status": "abandoned",
+    "emissions": 56.3,
+    "ghgScore": 51,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0454",
+    "lat": 55.911834,
+    "lng": -112.635085,
+    "status": "active",
+    "emissions": 4.8,
+    "ghgScore": 5,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0455",
+    "lat": 55.149453,
+    "lng": -119.550875,
+    "status": "abandoned",
+    "emissions": 24.3,
+    "ghgScore": 23,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0456",
+    "lat": 58.472799,
+    "lng": -117.481238,
+    "status": "active",
+    "emissions": 1.9,
+    "ghgScore": 1,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0457",
+    "lat": 55.59539,
+    "lng": -115.86182,
+    "status": "inactive",
+    "emissions": 52.8,
+    "ghgScore": 52,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0458",
+    "lat": 57.594872,
+    "lng": -115.222328,
+    "status": "active",
+    "emissions": 57.9,
+    "ghgScore": 59,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0459",
+    "lat": 49.843378,
+    "lng": -115.034151,
+    "status": "active",
+    "emissions": 32.9,
+    "ghgScore": 32,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0460",
+    "lat": 50.993181,
+    "lng": -113.698361,
+    "status": "active",
+    "emissions": 95.5,
+    "ghgScore": 1,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0461",
+    "lat": 55.230837,
+    "lng": -112.521121,
+    "status": "active",
+    "emissions": 66.7,
+    "ghgScore": 63,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0462",
+    "lat": 54.195233,
+    "lng": -111.7671,
+    "status": "inactive",
+    "emissions": 76.1,
+    "ghgScore": 78,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0463",
+    "lat": 55.730581,
+    "lng": -119.372354,
+    "status": "active",
+    "emissions": 98.9,
+    "ghgScore": 93,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0464",
+    "lat": 55.448094,
+    "lng": -114.678916,
+    "status": "active",
+    "emissions": 81.7,
+    "ghgScore": 81,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0465",
+    "lat": 51.87954,
+    "lng": -112.463707,
+    "status": "inactive",
+    "emissions": 28.0,
+    "ghgScore": 27,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0466",
+    "lat": 51.318853,
+    "lng": -110.182129,
+    "status": "inactive",
+    "emissions": 11.6,
+    "ghgScore": 12,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0467",
+    "lat": 56.63535,
+    "lng": -116.612443,
+    "status": "inactive",
+    "emissions": 47.1,
+    "ghgScore": 47,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0468",
+    "lat": 58.730485,
+    "lng": -118.139805,
+    "status": "active",
+    "emissions": 0.6,
+    "ghgScore": 0,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0469",
+    "lat": 51.077535,
+    "lng": -117.910979,
+    "status": "active",
+    "emissions": 28.7,
+    "ghgScore": 29,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0470",
+    "lat": 53.100243,
+    "lng": -111.743357,
+    "status": "active",
+    "emissions": 21.3,
+    "ghgScore": 19,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0471",
+    "lat": 54.469931,
+    "lng": -118.444318,
+    "status": "active",
+    "emissions": 66.2,
+    "ghgScore": 62,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0472",
+    "lat": 51.991416,
+    "lng": -114.604072,
+    "status": "active",
+    "emissions": 66.8,
+    "ghgScore": 69,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0473",
+    "lat": 54.975499,
+    "lng": -114.502811,
+    "status": "inactive",
+    "emissions": 17.8,
+    "ghgScore": 18,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0474",
+    "lat": 54.260286,
+    "lng": -111.168633,
+    "status": "abandoned",
+    "emissions": 2.2,
+    "ghgScore": 2,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0475",
+    "lat": 56.472296,
+    "lng": -112.06874,
+    "status": "abandoned",
+    "emissions": 26.7,
+    "ghgScore": 27,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0476",
+    "lat": 55.713504,
+    "lng": -114.192269,
+    "status": "abandoned",
+    "emissions": 70.7,
+    "ghgScore": 75,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0477",
+    "lat": 55.863319,
+    "lng": -112.714063,
+    "status": "active",
+    "emissions": 38.8,
+    "ghgScore": 36,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0478",
+    "lat": 56.431586,
+    "lng": -117.579858,
+    "status": "active",
+    "emissions": 70.7,
+    "ghgScore": 76,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0479",
+    "lat": 54.075135,
+    "lng": -119.593759,
+    "status": "abandoned",
+    "emissions": 10.0,
+    "ghgScore": 10,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0480",
+    "lat": 52.44643,
+    "lng": -115.042621,
+    "status": "active",
+    "emissions": 91.0,
+    "ghgScore": 87,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0481",
+    "lat": 58.609812,
+    "lng": -114.206913,
+    "status": "active",
+    "emissions": 46.5,
+    "ghgScore": 46,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0482",
+    "lat": 54.840142,
+    "lng": -119.19477,
+    "status": "inactive",
+    "emissions": 87.8,
+    "ghgScore": 93,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0483",
+    "lat": 54.363344,
+    "lng": -113.044936,
+    "status": "active",
+    "emissions": 59.4,
+    "ghgScore": 60,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0484",
+    "lat": 49.508625,
+    "lng": -114.992121,
+    "status": "abandoned",
+    "emissions": 47.6,
+    "ghgScore": 51,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0485",
+    "lat": 52.198882,
+    "lng": -111.354804,
+    "status": "active",
+    "emissions": 61.0,
+    "ghgScore": 65,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0486",
+    "lat": 50.280428,
+    "lng": -118.475815,
+    "status": "inactive",
+    "emissions": 37.9,
+    "ghgScore": 37,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0487",
+    "lat": 55.93797,
+    "lng": -110.249684,
+    "status": "active",
+    "emissions": 46.1,
+    "ghgScore": 43,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0488",
+    "lat": 53.915945,
+    "lng": -113.955855,
+    "status": "active",
+    "emissions": 13.0,
+    "ghgScore": 14,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0489",
+    "lat": 57.693308,
+    "lng": -117.293346,
+    "status": "active",
+    "emissions": 67.0,
+    "ghgScore": 70,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0490",
+    "lat": 58.465112,
+    "lng": -117.806604,
+    "status": "active",
+    "emissions": 2.2,
+    "ghgScore": 2,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0491",
+    "lat": 51.757491,
+    "lng": -117.280215,
+    "status": "inactive",
+    "emissions": 40.3,
+    "ghgScore": 39,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0492",
+    "lat": 52.450882,
+    "lng": -119.850044,
+    "status": "inactive",
+    "emissions": 93.7,
+    "ghgScore": 84,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0493",
+    "lat": 54.767465,
+    "lng": -117.980778,
+    "status": "active",
+    "emissions": 3.8,
+    "ghgScore": 4,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0494",
+    "lat": 54.214836,
+    "lng": -111.517419,
+    "status": "abandoned",
+    "emissions": 61.4,
+    "ghgScore": 65,
+    "region": "Southern"
+  },
+  {
+    "id": "WELL-0495",
+    "lat": 56.652584,
+    "lng": -113.101635,
+    "status": "active",
+    "emissions": 96.8,
+    "ghgScore": 97,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0496",
+    "lat": 57.803666,
+    "lng": -113.073342,
+    "status": "inactive",
+    "emissions": 33.4,
+    "ghgScore": 31,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0497",
+    "lat": 57.970593,
+    "lng": -117.533032,
+    "status": "inactive",
+    "emissions": 28.6,
+    "ghgScore": 30,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0498",
+    "lat": 52.276728,
+    "lng": -112.31457,
+    "status": "active",
+    "emissions": 65.1,
+    "ghgScore": 61,
+    "region": "Central"
+  },
+  {
+    "id": "WELL-0499",
+    "lat": 54.293092,
+    "lng": -111.151322,
+    "status": "abandoned",
+    "emissions": 88.2,
+    "ghgScore": 89,
+    "region": "Northern"
+  },
+  {
+    "id": "WELL-0500",
+    "lat": 50.078762,
+    "lng": -112.867279,
+    "status": "active",
+    "emissions": 55.1,
+    "ghgScore": 57,
+    "region": "Northern"
+  }
+]
